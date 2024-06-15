@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Rome", "Berlin"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Paris", "London", "Rome", "Berlin"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Mars", "Venus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "H2"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Beijing", "Seoul", "Bangkok", "Tokyo"],
+      "answer": "Tokyo"
+    }
+  ]
+  
